@@ -1,0 +1,6 @@
+@Parking.AuthService_HostAddress = http://localhost:5252
+
+GET {{Parking.AuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

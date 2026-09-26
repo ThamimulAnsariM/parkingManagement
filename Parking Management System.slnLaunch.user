@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Parking.AuthService\\Parking.AuthService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Parking.ParkingService\\Parking.ParkingService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Parking.ApiGateway\\Parking.ApiGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
